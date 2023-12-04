@@ -1,0 +1,3 @@
+[submodule "node-simple-board-skeleton"]
+	path = node-simple-board-skeleton
+	url = https://github.com/heewoong-ahn/node-simple-board-skeleton.git
